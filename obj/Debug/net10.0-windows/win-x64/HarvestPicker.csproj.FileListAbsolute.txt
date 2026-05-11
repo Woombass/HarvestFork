@@ -1,0 +1,11 @@
+G:\For Poe\ExileApi-Compiled-328.9\Plugins\Temp\HarvestPicker\HarvestPicker.deps.json
+G:\For Poe\ExileApi-Compiled-328.9\Plugins\Temp\HarvestPicker\HarvestPicker.dll
+G:\For Poe\ExileApi-Compiled-328.9\Plugins\Source\HarvestPicker\obj\Debug\net10.0-windows\win-x64\HarvestPicker.csproj.AssemblyReference.cache
+G:\For Poe\ExileApi-Compiled-328.9\Plugins\Source\HarvestPicker\obj\Debug\net10.0-windows\win-x64\HarvestPicker.GeneratedMSBuildEditorConfig.editorconfig
+G:\For Poe\ExileApi-Compiled-328.9\Plugins\Source\HarvestPicker\obj\Debug\net10.0-windows\win-x64\HarvestPicker.AssemblyInfoInputs.cache
+G:\For Poe\ExileApi-Compiled-328.9\Plugins\Source\HarvestPicker\obj\Debug\net10.0-windows\win-x64\HarvestPicker.AssemblyInfo.cs
+G:\For Poe\ExileApi-Compiled-328.9\Plugins\Source\HarvestPicker\obj\Debug\net10.0-windows\win-x64\HarvestPicker.csproj.CoreCompileInputs.cache
+G:\For Poe\ExileApi-Compiled-328.9\Plugins\Source\HarvestPicker\obj\Debug\net10.0-windows\win-x64\HarvestPicker.sourcelink.json
+G:\For Poe\ExileApi-Compiled-328.9\Plugins\Source\HarvestPicker\obj\Debug\net10.0-windows\win-x64\HarvestPicker.dll
+G:\For Poe\ExileApi-Compiled-328.9\Plugins\Source\HarvestPicker\obj\Debug\net10.0-windows\win-x64\refint\HarvestPicker.dll
+G:\For Poe\ExileApi-Compiled-328.9\Plugins\Source\HarvestPicker\obj\Debug\net10.0-windows\win-x64\ref\HarvestPicker.dll
